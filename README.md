@@ -1,1 +1,1 @@
-# rahjeena-Quizz-App
+# Quizz-App
